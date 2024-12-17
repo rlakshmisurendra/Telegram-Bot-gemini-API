@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1AjeEBMfnOTXGTJ7Zibu0zzVrP2R1mmdW
 """
 
-!pip install pyTelegramBotAPI
-!pip install google-generativeai #For Google Gemini
 TelegramBOT_TOKEN = '7624931644:AAHBi9M04i8yeFTWAszcL3LNfcFZCIO0vY4'
 
 #Latest version Gemini API
